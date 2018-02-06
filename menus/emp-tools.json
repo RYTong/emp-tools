@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle emp-tools",
+        "command": "emp-tools:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "emp-tools",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "emp-tools:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
