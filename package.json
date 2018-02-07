@@ -3,8 +3,7 @@
   "main": "./lib/emp-tools",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "emp-tools:toggle"
   },
@@ -14,5 +13,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "fuzzaldrin": "^2.1",
+    "minimatch": "~3.0.3",
+    "atom-space-pen-views": "^2.0.2"
   }
 }
