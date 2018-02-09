@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-o": "emp-tools:toggle"
+    "ctrl-alt-o": "emp-tools:toggle"
   }
 }
