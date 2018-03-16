@@ -2,9 +2,14 @@
   "name": "emp-tools",
   "main": "./lib/emp-tools",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
-  "repository": "https://github.com/atom/emp-tools",
+  "description": "跳转到页面定义的样式和 lua所在之处.",
+  "keywords": [
+    "EMP",
+    "EMPView",
+    "Goto",
+    "RYTong"
+  ],
+  "repository": "https://github.com/RYTong/emp-tools",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
