@@ -1,7 +1,7 @@
 {
   "name": "emp-tools",
   "main": "./lib/emp-tools",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "跳转到页面定义的样式和 lua所在之处.",
   "keywords": [
     "EMP",
